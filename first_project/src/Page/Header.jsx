@@ -23,10 +23,10 @@ vbar-toggler-icon" />
                                 <Link className="nav-link active" aria-current="page" to="/contact">Contact</Link>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link active" aria-current="page" href="#">React Example1</a>
+                                <a className="nav-link active" aria-current="page" href="/eventhandling">React Event Handling</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link active" aria-current="page" href="#">React Example2</a>
+                                <a className="nav-link active" aria-current="page" href="/hook">React Hook</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link active" aria-current="page" href="#">LogIn</a>
