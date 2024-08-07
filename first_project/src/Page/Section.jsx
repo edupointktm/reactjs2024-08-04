@@ -7,6 +7,8 @@ import Page_not_found from '../component/Page_not_found'
 import Event_handling from '../component/Event_handling'
 import Hooke from '../component/Hooke'
 import Student_details from '../component/Student_details'
+import GetAPIData from '../component/GetAPIData'
+import ProductDetails from '../component/ProductDetails'
 
 function Section() {
     return (
@@ -21,6 +23,9 @@ function Section() {
                     <Route path="/eventhandling" element={ <Event_handling/>}/>
                     <Route path="/hook" element={ <Hooke/>}/>
                     <Route path="/student_details/:sid" element={ <Student_details/>}/>
+                    <Route path="/productdetails/:pid" element={ <ProductDetails/>}/>
+                    
+                    <Route path="/apidata" element={ <GetAPIData/>}/>
                     <Route path="*" element={ <Page_not_found/>}/>
                 </Routes>
 

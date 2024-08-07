@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 
 function Hooke() {
     let [count, setCount]=useState(10)
@@ -6,7 +6,10 @@ function Hooke() {
     let decreament =()=>{
         setCount(count-1)
     }
-
+useEffect(()=>{
+    console.log("Welcome "+count)
+    //data load
+},[])
    
   return (
     <>
@@ -23,3 +26,8 @@ function Hooke() {
 }
 
 export default Hooke
+
+
+
+
+

@@ -29,6 +29,9 @@ vbar-toggler-icon" />
                                 <a className="nav-link active" aria-current="page" href="/hook">React Hook</a>
                             </li>
                             <li className="nav-item">
+                                <Link className="nav-link active" aria-current="page" to="/apidata">Get API Data</Link>
+                            </li>
+                            <li className="nav-item">
                                 <a className="nav-link active" aria-current="page" href="#">LogIn</a>
                             </li>
                           
