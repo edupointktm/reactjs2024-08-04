@@ -1,0 +1,22 @@
+{
+    "user":[
+        {
+            "id":1,
+            "name":"Prabhat Kumar Mallik",
+            "address":"Kathmandu",
+            "mobile_no":"54545454",
+            "user_type":"super admin",
+            "email":"prabhat@gmail.com",
+            "password":"123"
+        },
+        {
+            "id":2,
+            "name":"Mukesh Hari Om",
+            "address":"Pokhara",
+            "mobile_no":"8854545",
+            "user_type":"admin",
+            "email":"mukesh@gmail.com",
+            "password":"123"
+        }
+    ]
+}

@@ -32,7 +32,7 @@ vbar-toggler-icon" />
                                 <Link className="nav-link active" aria-current="page" to="/apidata">Get API Data</Link>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link active" aria-current="page" href="#">LogIn</a>
+                                <Link className="nav-link active" aria-current="page" to="/login">LogIn</Link>
                             </li>
                           
                            
