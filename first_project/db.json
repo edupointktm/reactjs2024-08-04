@@ -1,7 +1,7 @@
 {
   "user": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Prabhat Kumar Mallik",
       "address": "Kathmandu",
       "mobile_no": "54545454",
@@ -10,7 +10,7 @@
       "password": "123"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Mukesh Hari Om",
       "address": "Pokhara",
       "mobile_no": "8854545",
@@ -19,61 +19,29 @@
       "password": "123"
     },
     {
-      "id": 3,
-      "name": "Sujit Kumar Dhakal",
-      "address": "sunsari",
-      "mobile_no": "654545",
+      "id": "d78c",
+      "name": "Sunil Kumar Yadav",
+      "address": "dolkha",
+      "email": "dsf@test.com",
+      "mobile_no": "3453",
+      "user_type": "345"
+    },
+    {
+      "id": "2",
+      "name": "Rupesh Hari Om",
+      "address": "Pokhara",
+      "mobile_no": "8854545",
       "user_type": "admin",
-      "email": "sujit@gmail.com",
-      "password": "321"
+      "email": "mukesh@gmail.com",
+      "password": "123"
     },
     {
-      "id": "885f",
-      "name": "Rita Kumari",
-      "address": "",
-      "mobile_no": "43465464",
-      "user_type": "321",
+      "id": "53c0",
+      "name": "ganesh",
+      "address": "Janakpur",
+      "mobile_no": "34456546",
+      "user_type": "guest",
       "email": "rita@gmail.com",
-      "password": "",
-      "addres": "Pokhara"
-    },
-    {
-      "id": "d295",
-      "name": "pkm",
-      "address": "",
-      "mobile_no": "3543",
-      "user_type": "123",
-      "email": "test@gmail.com",
-      "password": "",
-      "addres": "dsfds"
-    },
-    {
-      "id": "3038",
-      "name": "sdfds",
-      "address": "",
-      "mobile_no": "45435",
-      "user_type": "123",
-      "email": "test@gmail.com",
-      "password": "",
-      "addres": "sdfds"
-    },
-    {
-      "id": "cfa6",
-      "name": "sdsdf",
-      "address": "",
-      "mobile_no": "543543",
-      "user_type": "124",
-      "email": "test@gmail.com",
-      "password": "",
-      "addres": "sdfds"
-    },
-    {
-      "id": "7080",
-      "name": "mohan",
-      "address": "ktm",
-      "mobile_no": "435345",
-      "user_type": "232",
-      "email": "kmt@gmail.com",
       "password": ""
     }
   ]
